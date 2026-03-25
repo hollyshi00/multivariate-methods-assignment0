@@ -4,7 +4,7 @@ and AI-assisted coding.
 Author: Holly SHI
 Date: [March 25, 2026]
 
-##Reflection:
+## Reflection:
 I used both ChatGPT and Claude as AI-assisted coding tools for this assignment. 
 ChatGPT initially suggested increasing the correlation in the covariance matrix 
 from 0.5 to 0.8 and adding contour lines to the plot. The initial code worked 
